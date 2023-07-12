@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Hilton Hotel",
+    "location": {
+      "country": "Alexandria",
+      "city": "Egypt",
+      "addr": "Gish road"
+    },
+    "phone": "0111156682727",
+    "bed_sizes": [
+      "king",
+      "queen",
+      "normal"
+    ],
+    "included": [
+      "breakfast",
+      "dinner",
+      "all-in",
+      "none"
+    ],
+    "pricing": {
+      "bed": {
+        "king": 265,
+        "queen": 200,
+        "normal": 100
+      },
+      "included": {
+        "breakfast": 20,
+        "dinner": 30,
+        "all-in": 40
+      }
+    },
+    "rating": {
+      "cleanliness": 4,
+      "staff": 4,
+      "comfort": 4,
+      "service": 4
+    },
+    "facilities": [
+      "pool",
+      "gym",
+      "breakfast",
+      "room service",
+      "bar",
+      "wifi",
+      "no smoke"
+    ],
+    "desc": "Hilton Hotel Dscription.",
+    "img": "59710428"
+  },
+  {
+    "id": 2,
+    "name": "Dreams Beach Hotel ",
+    "location": {
+      "country": "Sharm shishk",
+      "city": "Egypt",
+      "addr": "5alig ne3ma"
+      
+    },
+    "phone": "01111566827",
+    "bed_sizes": [
+      "king",
+      "queen",
+      "normal"
+    ],
+    "included": [
+      "breakfast",
+      "dinner",
+      "all-in",
+      "none"
+    ],
+    "pricing": {
+      "bed": {
+        "king": 248,
+        "queen": 218,
+        "normal": 144
+      },
+      "included": {
+        "breakfast": 22,
+        "dinner": 28,
+        "all-in": 42
+      }
+    },
+    "rating": {
+      "cleanliness": 5,
+      "staff": 3,
+      "comfort": 4,
+      "service": 3
+    },
+    "facilities": [
+      "breakfast",
+      "room service",
+      "bar",
+      "wifi",
+      "no smoke"
+    ],
+    "desc": "Just 350 m from Saint-Georges Metro Station, this 4-star hotel is a 10-minute walk from the Sacré Coeur. It offers free WiFi access. \nAn LCD TV with satellite, international channels is offered in the rooms at Hotel Sacha. All rooms are contemporary in style and have air conditioning.\nHotel Sacha serves breakfast on the flowered patio or in the hotel’s breakfast room. Guests can also relax in the lounge or organize their day with the 24-hour reception’s ticket service.\nGuests staying at this hotel have access to the lounge area where they can drop off their shopping bags, borrow an umbrella or charge their mobile phone.\nOpéra Garnier is a 20-minute walk from the hotel and local transport links lead directly to Place de la Concorde. Shoppers may choose to visit the Galeries Lafayette department store, a 15-minute walk away.",
+    "img": "66378765"
+  },
+  {
+    "id": 3,
+    "name": "Grand osis Hotel",
+    "location": {
+      "country": "Sharm shishk",
+      "city": "Egypt",
+      "addr": " sharm shishk"
+    },
+    "phone": "011115668272",
+    "bed_sizes": [
+      "king",
+      "queen",
+      "normal"
+    ],
+    "included": [
+      "breakfast",
+      "dinner",
+      "all-in",
+      "none"
+    ],
+    "pricing": {
+      "bed": {
+        "king": 355,
+        "queen": 278,
+        "normal": 187
+      },
+      "included": {
+        "breakfast": 25,
+        "dinner": 32,
+        "all-in": 55
+      }
+    },
+    "rating": {
+      "cleanliness": 4,
+      "staff": 5,
+      "comfort": 5,
+      "service": 3
+    },
+    "facilities": [
+      "breakfast",
+      "room service",
+      "wifi",
+      "pool",
+      "smoke"
+    ],
+    "desc": "Grand Osis Hotel description",
+    "img": "117270188"
+  },
+  {
+    "id": 4,
+    "name": "Four Season",
+    "location": {
+      "country": "Alexandria",
+      "city": "Egypt",
+      "addr": "san stifino"
+   
+    },
+    "phone": "011115668279",
+    "bed_sizes": [
+      "queen",
+      "normal"
+    ],
+    "included": [
+      "breakfast",
+      "dinner",
+      "all-in",
+      "none"
+    ],
+    "pricing": {
+      "bed": {
+        "king": 255,
+        "queen": 221,
+        "normal": 123
+      },
+      "included": {
+        "breakfast": 19,
+        "dinner": 25,
+        "all-in": 39
+      }
+    },
+    "rating": {
+      "cleanliness": 3,
+      "staff": 2,
+      "comfort": 4,
+      "service": 3
+    },
+    "facilities": [
+      "breakfast",
+      "room service",
+      "wifi",
+      "pool",
+      "smoke"
+    ],
+    "desc": "san stifino hotel",
+    "img": "223797857"
+  }
+]
